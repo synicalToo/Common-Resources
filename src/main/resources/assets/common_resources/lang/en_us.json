@@ -1,0 +1,15 @@
+{
+  "item.common_resources.coal_dust": "Coal Dust",
+  "item.common_resources.charcoal_dust": "Charcoal Dust",
+
+  "item.common_resources.iron_dust": "Iron Dust",
+  "item.common_resources.gold_dust": "Gold Dust",
+  "item.common_resources.copper_dust": "Copper Dust",
+  "item.common_resources.diamond_dust": "Diamond Dust",
+  "item.common_resources.netherite_dust": "Netherite Dust",
+
+  "item.common_resources.lapis_dust": "Lapis Dust",
+  "item.common_resources.quartz_dust": "Quartz Dust",
+  "item.common_resources.emerald_dust": "Emerald Dust",
+  "Common Resources": "Common Resources"
+}
